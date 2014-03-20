@@ -10,3 +10,5 @@ $ python autoingestion.py <email> <password> <vendor ID> <Sales OR Newsstand> <D
 ```
 
 If no report date is specified, yesterday's report will be fetched.
+
+Apple's official docs here: https://www.apple.com/itunesnews/docs/AppStoreReportingInstructions.pdf
